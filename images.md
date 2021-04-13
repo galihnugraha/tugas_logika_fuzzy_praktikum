@@ -1,19 +1,19 @@
-![Fuzzy Logic Design](tugas_logika_fuzzy_praktikum/fuzzy-design.png)
+![Fuzzy Logic Design](fuzzy-design.PNG)
 
-![Desain UI/UX Function](tugas_logika_fuzzy_praktikum/desain-UI-UX.png)
+![Desain UI/UX Function](desain-UI-UX.PNG)
 
-![Performa Function](tugas_logika_fuzzy_praktikum/performa.png)
+![Performa Function](performa.PNG)
 
-![Kemudahan Function](tugas_logika_fuzzy_praktikum/kemudahan.png)
+![Kemudahan Function](kemudahan.PNG)
 
-![Kualitas Aplikasi Function](tugas_logika_fuzzy_praktikum/kualitas-aplikasi.png)
+![Kualitas Aplikasi Function](kualitas-aplikasi.PNG)
 
-![Rule Editor](tugas_logika_fuzzy_praktikum/rule-editor.png)
+![Rule Editor](rule-editor.PNG)
 
-![Rule Views](tugas_logika_fuzzy_praktikum/rules-1.png)
+![Rule Views](rules-1.PNG)
 
-![Rule Views](tugas_logika_fuzzy_praktikum/rules-2.png)
+![Rule Views](rules-2.PNG)
 
-![Rule Views](tugas_logika_fuzzy_praktikum/rules-3.png)
+![Rule Views](rules-3.PNG)
 
-![Surface](tugas_logika_fuzzy_praktikum/surface.png)
+![Surface](surface.PNG)
